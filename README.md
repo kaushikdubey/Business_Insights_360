@@ -2,6 +2,8 @@
 ## PowerBI project
 ###Here's my first ever PowerBI project "Business Insights 360 for AtliQ Hardware", AtliQ Hardware sells computer hardware through different platforms. We had made some visualization's according to their need. Our aim is to Create an interactive report to simplify complex data into a visually straightforward.
 
+**https://app.powerbi.com/view?r=eyJrIjoiZWE4YTFhMGEtNmJiYS00MDkxLTg5ZmUtN2E3NmVjNTNlMjg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9**
+
 **Scenario Planning: Begin by identifying the scenarios and objectives for the report.*
 
 **Data Compilation: Collect and gather the necessary data from various sources.*
